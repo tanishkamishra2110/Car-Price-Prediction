@@ -1,2 +1,2 @@
 # Car-Price-Prediction
-Car price prediction using Linear Regression
+Car price prediction model using Linear Regression 
